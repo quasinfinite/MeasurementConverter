@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MeasurementCalculator</string>
+    <string name="conversion">Conversion</string>
+    <string name="units">Miles</string>
+    <string name="unitsInput">Enter Miles Here</string>
+    <string name="convertedUnits">KIlometers</string>
+    <string name="convertedUnitsOutput">0.0</string>
+    <string-array name="conversionArray">
+        <item>Miles to Kilometers</item>
+        <item>Kilometers to Miles</item>
+        <item>Inches to Centimeters</item>
+        <item>Centimeters to Inches</item>
+    </string-array>
+    <string name="name">Created by Joseph Hart</string>
+</resources>
